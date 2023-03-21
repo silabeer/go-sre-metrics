@@ -1,4 +1,4 @@
-module restapi
+module go-sre-metrics
 
 go 1.19
 

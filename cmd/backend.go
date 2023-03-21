@@ -2,8 +2,9 @@ package main
 
 import (
 	"context"
-	"restapi/internal/handler"
-	"restapi/internal/server"
+
+	"go-sre-metrics/internal/handler"
+	"go-sre-metrics/internal/server"
 
 	"github.com/sirupsen/logrus"
 )
